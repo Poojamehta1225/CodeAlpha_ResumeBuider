@@ -1,0 +1,21 @@
+/*#resume-form{
+   
+}*/
+#resume-template{
+    display: none;
+}
+.myimg{
+    border-radius: 50%;
+
+    
+}
+img#imgT {
+    width: 150px;
+    height: 150px;
+}
+.background{
+   background-color: darksalmon;
+}
+#background{
+    background-color: aquamarine;
+}
